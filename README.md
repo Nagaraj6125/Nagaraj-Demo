@@ -1,4 +1,4 @@
 # Nagaraj-Demo
 This is my first Git repository.
 <br>
-Author - Nagaraj
+Author - Nagara
